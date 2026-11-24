@@ -1,0 +1,168 @@
+{
+  "memes": [
+    {
+      "id": "meme-coding-coffee",
+      "authorId": "user-carlos",
+      "authorName": "Carlos Mendoza",
+      "authorHandle": "@carlosdev",
+      "authorAvatar": "/src/assets/images/avatar_carlos_1795515777158.jpg",
+      "caption": "Yo a las 3:00 AM diciendo \"solo arreglo este último bug y me duermo\". Llevo tres tazas de café y el compilador me acaba de pedir disculpas.",
+      "category": "Programación",
+      "imageUrl": "/src/assets/images/meme_coding_coffee_1795515775884.jpg",
+      "imageAlt": "Gato naranja con lentes mirando una laptop de noche junto a una taza gigante de café",
+      "createdAt": "2026-11-24T09:51:30.022Z",
+      "reactions": {
+        "like": 124,
+        "haha": 289,
+        "love": 42,
+        "wow": 18,
+        "skull": 96
+      },
+      "userReactions": {},
+      "comments": [
+        {
+          "id": "c-101",
+          "authorId": "user-sofia",
+          "authorName": "Sofía Ríos",
+          "authorHandle": "@sofiarios",
+          "authorAvatar": "/src/assets/images/avatar_sofia_1795515777899.jpg",
+          "text": "El clásico \"es un cambio de dos líneas en producción\" un viernes.",
+          "createdAt": "2026-11-24T10:02:30.022Z"
+        },
+        {
+          "id": "c-102",
+          "authorId": "user-mateo",
+          "authorName": "Mateo Vargas",
+          "authorHandle": "@mateocrea",
+          "authorAvatar": "/src/assets/images/avatar_mateo_1795515777568.jpg",
+          "text": "Esa taza tiene más RAM que mi computadora.",
+          "createdAt": "2026-11-24T10:14:30.022Z"
+        }
+      ],
+      "sharesCount": 47,
+      "downloadsCount": 164
+    },
+    {
+      "id": "meme-monday-dog",
+      "authorId": "user-sofia",
+      "authorName": "Sofía Ríos",
+      "authorHandle": "@sofiarios",
+      "authorAvatar": "/src/assets/images/avatar_sofia_1795515777899.jpg",
+      "caption": "Cuando entras a la primera junta del lunes a las 8:30 AM y alguien dice: \"¿Qué tal su fin de semana? ¿Listos para arrancar con todo?\"",
+      "category": "Trabajo",
+      "imageUrl": "/src/assets/images/meme_monday_dog_1795515775925.jpg",
+      "imageAlt": "Perro golden retriever con corbata descansando agotado sobre pilas de carpetas en la oficina",
+      "createdAt": "2026-11-24T08:31:30.022Z",
+      "reactions": {
+        "like": 98,
+        "haha": 215,
+        "love": 64,
+        "wow": 9,
+        "skull": 53
+      },
+      "userReactions": {},
+      "comments": [
+        {
+          "id": "c-103",
+          "authorId": "user-carlos",
+          "authorName": "Carlos Mendoza",
+          "authorHandle": "@carlosdev",
+          "authorAvatar": "/src/assets/images/avatar_carlos_1795515777158.jpg",
+          "text": "Me representa totalmente cada lunes sin excepción.",
+          "createdAt": "2026-11-24T09:06:30.022Z"
+        }
+      ],
+      "sharesCount": 38,
+      "downloadsCount": 142
+    },
+    {
+      "id": "meme-midnight-pizza",
+      "authorId": "user-mateo",
+      "authorName": "Mateo Vargas",
+      "authorHandle": "@mateocrea",
+      "authorAvatar": "/src/assets/images/avatar_mateo_1795515777568.jpg",
+      "caption": "Yo: \"Desde hoy ceno ligero, pura ensalada.\" \nTambién yo a las 2:03 AM frente al refrigerador:",
+      "category": "Comida",
+      "imageUrl": "/src/assets/images/meme_midnight_pizza_1795515777234.jpg",
+      "imageAlt": "Persona con sudadera mirando fascinada una rebanada de pizza fría en el refrigerador de madrugada",
+      "createdAt": "2026-11-24T06:26:30.022Z",
+      "reactions": {
+        "like": 85,
+        "haha": 174,
+        "love": 91,
+        "wow": 12,
+        "skull": 41
+      },
+      "userReactions": {},
+      "comments": [
+        {
+          "id": "c-104",
+          "authorId": "user-sofia",
+          "authorName": "Sofía Ríos",
+          "authorHandle": "@sofiarios",
+          "authorAvatar": "/src/assets/images/avatar_sofia_1795515777899.jpg",
+          "text": "La pizza fría de madrugada sabe mejor que cualquier restaurante de cinco estrellas.",
+          "createdAt": "2026-11-24T07:16:30.022Z"
+        }
+      ],
+      "sharesCount": 29,
+      "downloadsCount": 98
+    },
+    {
+      "id": "meme-gym-cat",
+      "authorId": "user-sofia",
+      "authorName": "Sofía Ríos",
+      "authorHandle": "@sofiarios",
+      "authorAvatar": "/src/assets/images/avatar_sofia_1795515777899.jpg",
+      "caption": "Ya compré el tapete, ya saqué las pesas y ya me puse ropa deportiva. Por hoy ya fue demasiado esfuerzo físico, toca descansar.",
+      "category": "Animales",
+      "imageUrl": "/src/assets/images/meme_gym_cat_1795515776848.jpg",
+      "imageAlt": "Gato blanco y negro acostado boca arriba en un tapete de yoga junto a pesas pequeñas",
+      "createdAt": "2026-11-24T03:56:30.022Z",
+      "reactions": {
+        "like": 112,
+        "haha": 196,
+        "love": 134,
+        "wow": 6,
+        "skull": 28
+      },
+      "userReactions": {},
+      "comments": [],
+      "sharesCount": 34,
+      "downloadsCount": 119
+    },
+    {
+      "id": "meme-group-project",
+      "authorId": "user-carlos",
+      "authorName": "Carlos Mendoza",
+      "authorHandle": "@carlosdev",
+      "authorAvatar": "/src/assets/images/avatar_carlos_1795515777158.jpg",
+      "caption": "Todo el equipo conectándose en llamada a las 11:52 PM cuando la entrega cierra a las 11:59 PM y nadie ha hecho las diapositivas.",
+      "category": "Vida diaria",
+      "imageUrl": "/src/assets/images/meme_group_project_1795515777160.jpg",
+      "imageAlt": "Tres mapaches preocupados reunidos alrededor de una laptop bajo una lámpara de escritorio",
+      "createdAt": "2026-11-24T00:26:30.022Z",
+      "reactions": {
+        "like": 154,
+        "haha": 312,
+        "love": 49,
+        "wow": 27,
+        "skull": 88
+      },
+      "userReactions": {},
+      "comments": [
+        {
+          "id": "c-105",
+          "authorId": "user-mateo",
+          "authorName": "Mateo Vargas",
+          "authorHandle": "@mateocrea",
+          "authorAvatar": "/src/assets/images/avatar_mateo_1795515777568.jpg",
+          "text": "El que solo pone su nombre en la portada y cambia el tipo de letra.",
+          "createdAt": "2026-11-24T02:06:30.022Z"
+        }
+      ],
+      "sharesCount": 62,
+      "downloadsCount": 205
+    }
+  ]
+}
